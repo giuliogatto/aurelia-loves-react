@@ -11,6 +11,7 @@
     "aurelia-animator-css": "^1.0.1",
     "aurelia-bootstrapper": "^2.1.0",
     "bluebird": "^3.4.1",
+    "create-react-class": "^15.6.3",
     "moment": "^2.18.1",
     "react": "^15.4.2",
     "react-datepicker": "^0.44.0",

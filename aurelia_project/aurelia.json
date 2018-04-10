@@ -156,7 +156,11 @@
             ]
           },
           "react-onclickoutside",
-          "moment"
+          "moment",
+          {
+          "name": "create-react-class",
+          "path": "../node_modules/create-react-class/"
+          }
         ]
       }
     ]
